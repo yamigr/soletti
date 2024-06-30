@@ -1,0 +1,13 @@
+User-agent: *
+Disallow: /admin/
+Disallow: /cgi-bin/
+Disallow: /tmp/
+Disallow: /private/
+Disallow: /logs/
+Disallow: /private/
+Disallow: /software_data/
+Disallow: /stats/
+Disallow: /document_errors/
+Allow: /
+
+Sitemap: https://garage-tts-biedermann.ch/sitemap.xml
